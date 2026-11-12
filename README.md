@@ -3,7 +3,6 @@
   <p>17-year-old tech enthusiast & student • building projects & exploring systems</p>
   <p>
     <a href="https://saisarath.com"><strong>saisarath.com</strong></a> •
-    <a href="https://x.com/saisarathbb"><strong>Twitter / X</strong></a> •
     <a href="https://telegram.me/saisarath"><strong>Telegram</strong></a> •
     <a href="mailto:hello@saisarath.com"><strong>hello@saisarath.com</strong></a>
   </p>
