@@ -12,7 +12,7 @@
 
 ### About Me
 
-Hi! I'm a 17-year-old tech enthusiast and student. I enjoy exploring technology with tech stuff, building small projects, investigating software architecture, mental models, and physics problems, and listening to music in my free time.
+Hi! I'm a 17-year-old tech enthusiast and student. I enjoy exploring technology with tech stuff, building small projects, investigating software architecture, mental models, and listening to music in my free time.
 
 ---
 
